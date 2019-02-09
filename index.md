@@ -1,3 +1,3 @@
-# Before start
-# Target
-# Main
+# はじめに
+# 想定読者
+# 本題
