@@ -29,8 +29,9 @@ Java言語との互換性が非常に高く、Javeで作成されたプログラ
 少なくとも、何かのプログラミング言語を経験している人ならスムーズに話がわかるかなと思います。
 
 # 環境
-ローカル環境やコマンドライン上で行いたいかもしれませんが環境構築でつまづいてしまうことも考えられるので今回は環境構築に関しては詳しく行いませんので各自でお願いします。  
-参考程度に公式のページのリンクを載せておきます:https://kotlinlang.org/docs/tutorials/command-line.html  
+環境構築の方法は[こちら](https://kotlinlang.org/docs/tutorials/command-line.html)にあります。  
+環境構築を行うことでターミナル上でKotlinを動かすことができますが、今回は環境構築に関する説明は詳しく行いませんので各自でお願いします。  
+Homebrew等でコマンド一つで構築できる場合もあります。  
 
 環境構築を行わなくてもKotlinの動作を試す方法として今回は[こちら](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)を使用します。  
-動作検証も上記で行なっています。
+動作検証も上記で行なっています。  
