@@ -35,3 +35,9 @@ Homebrew等でコマンド一つで構築できる場合もあります。
 
 環境構築を行わなくてもKotlinの動作を試す方法として今回は[こちら](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)を使用します。  
 動作検証も上記で行なっています。  
+
+## 操作方法
+### 画面説明
+![image1](image/1.png)
+![iamge2](image/2.png)
+![iamge3](image/3.png)
