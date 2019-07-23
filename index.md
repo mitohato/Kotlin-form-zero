@@ -115,8 +115,8 @@ class Hoge(a: Int): Poyo {}
 ```kotlin
 data class Data(
   var a: Int = 0,
-  var b: Strin = "",
-  var isOk: Bool
+  var b: String = "",
+  var isOk: Boolean
 )
 ```
 
