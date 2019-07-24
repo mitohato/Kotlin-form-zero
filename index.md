@@ -117,7 +117,7 @@ Kotlinには関数・メソッドと呼ばれるものが存在し、この中�
 使い方等によって関数と言ったりメソッドと言ったりしますが、この章では関数と呼びます。  
 一番簡単な関数の例はこのようになっています。  
 ```kotlin
-fun sum(var a: Int, var b: Int): Int = a + b
+fun sum(a: Int, b: Int): Int = a + b
 
 // 使う側
 sum(3, 2)
